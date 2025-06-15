@@ -3,9 +3,9 @@
 ### 🔐 Cybersecurity Analyst | CompTIA CYSA+ Certified | Houston, TX
 
 I’m a passionate cybersecurity professsional dedicated to protecting digital infrastructure through:
-Threat Detection & Response
-Vulnerability Management
-Security Automation & Monitoring
+Threat Detection & Response,
+Vulnerability Management,
+Security Automation & Monitoring.
 I specialize in leveraging tools like **Nessuss,** Wireshark**, and **Splunk** to secure enterprise environments and provide actionable insights.
 
 
