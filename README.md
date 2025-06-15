@@ -26,7 +26,7 @@ I specialize in leveraging tools like **Nessuss,** Wireshark**, and **Splunk** t
   A full simulation of vulnerability management process using Tenable Nessus.
 
 - 📊 **[Splunk SIEM + SOAR Automation](https://github.com/anthonycysa/splunk-siem-soar-lab)**  
-  A simulated SIEM and SOAR lab for dtecting and responding to common attack patterns using Splunk.
+  A simulated SIEM and SOAR lab for detecting and responding to common attack patterns using Splunk.
 
 - 🕵️ **[Wireshark Network Analysis](https://github.com/anthonycysa/wireshark-network-analysis-lab)**  
   A packet analysis project using Wireshark to detect DNS tunneling, FTP exfiltration, and HTTP-based threats.
