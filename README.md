@@ -2,7 +2,12 @@
 
 ### 🔐 Cybersecurity Analyst | CompTIA CYSA+ Certified | Houston, TX
 
-I’m a hands-on cybersecurity professional with a passion for protecting digital infrastructure through threat detection, vulnerability management, and automation. I specialize in using tools like **Nessus**, **Wireshark**, and **Splunk** to secure enterprise environments.
+I’m a passionate cybersecurity professsional dedicated to protecting digital infrastructure through:
+Threat Detection & Response
+Vulnerability Management
+Security Automation & Monitoring
+I specialize in leveraging tools like **Nessuss,** Wireshark**, and **Splunk** to secure enterprise environments and provide actionable insights.
+
 
 ---
 
@@ -11,29 +16,28 @@ I’m a hands-on cybersecurity professional with a passion for protecting digita
 ![Splunk](https://img.shields.io/badge/-Splunk-black?style=flat-square&logo=splunk)
 ![Nessus](https://img.shields.io/badge/-Nessus-blue?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-darkblue?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux)
+
 
 ---
 
 ## 📌 Featured Projects
 
-- 🔍 **[Nessus Vulnerability Assessment](https://github.com/anthonycysa/nessus-retail-vulnerability-assessment)**  
-  Identified and remediated 40+ vulnerabilities in a simulated e-commerce network to support PCI-DSS compliance.
+- 🔍 **[Nessus Vulnerability Managament](https://github.com/anthonycysa/nessus-vulnerability-management-lab)**  
+  A full simulation of vulnerability management process using Tenable Nessus.
 
-- 📊 **[Splunk Log Analysis + SOAR Automation](https://github.com/anthonycysa/splunk-log-analysis-and-soar)**  
-  Built detection dashboards and automated incident response playbooks to reduce MTTR by 30%.
+- 📊 **[Splunk SIEM + SOAR Automation](https://github.com/anthonycysa/splunk-siem-soar-lab)**  
+  A simulated SIEM and SOAR lab for dtecting and responding to common attack patterns using Splunk.
 
-- 🕵️ **[Wireshark Network Traffic Analysis](https://github.com/anthonycysa/wireshark-network-analysis)**  
-  Detected DNS tunneling, SYN floods, and credential leaks in PCAP traffic using custom Wireshark filters.
+- 🕵️ **[Wireshark Network Analysis](https://github.com/anthonycysa/wireshark-network-analysis-lab)**  
+  A packet analysis project using Wireshark to detect DNS tunneling, FTP exfiltration, and HTTP-based threats.
 
 ---
 
 ## 🎓 Certifications & Training
 
-- 🛡️ **CompTIA CYSA+** (Certified May 2025)
-- 🏫 Houston Community College Cybersecurity Bootcamp
-- 📚 Microsoft x Ilink Seminar: Ransomware Prevention & Azure AI for Security
+- 🛡️ **CompTIA CYSA+** (Certified May 5, 2025)
+- 🏫 **CompTIA Cybersecurity Learning Path/Bootcamp (10/2022-05/2025)
+  
 
 ---
 
